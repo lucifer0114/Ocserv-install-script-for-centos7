@@ -1,8 +1,8 @@
 # Ocserv-install-script-for-centos7
 Especially thanks to travislee8964@github and Mr Chen@baerk.com
 
-#可将其中 ocserv_version=”0.10.8″ 这一行的版本号改成 你想要的版本，据说0.10.8此版本较稳定。
-vi ocserv-install-script-for-centos7.sh
+#可将其中 ocserv_version=”0.10.8″ 这一行的版本号改成 你想要的版本，据说0.10.8此版本较稳定。<br>
+vi ocserv-install-script-for-centos7.sh<br>
 #修改后保存，然后运行脚本。
 
 sh ocserv-install-script-for-centos7.sh<br>
