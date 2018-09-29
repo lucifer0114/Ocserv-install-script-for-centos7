@@ -5,7 +5,7 @@ Especially thanks to travislee8964@github and Mr Chen@baerk.com
 vi ocserv-install-script-for-centos7.sh
 #修改后保存，然后运行脚本。
 
-sh ocserv-install-script-for-centos7.sh
+sh ocserv-install-script-for-centos7.sh<br>
 #安装过程中会提示你输入端口、用户名和密码等，自己按需填写。 安装完成后可编辑配置文件，添加用户或者删除用户等待操作。
 
 #配置目录：
