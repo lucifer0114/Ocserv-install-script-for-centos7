@@ -1,7 +1,7 @@
 # Ocserv-install-script-for-centos7
-Especially thanks to travislee8964@github and Mr Chen@baerk.com
+Especially thanks to travislee8964@github and Mr Chan@baerk.com
 
-安装步骤：
+安装步骤：<br>
 1.执行wget命令。<br>
 2.可将其中 ocserv_version=”0.10.8″ 这一行的版本号改成 你想要的版本，据说0.10.8此版本较稳定。<br>
 vi ocserv-install-script-for-centos7.sh<br>
